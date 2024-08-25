@@ -81,7 +81,7 @@ function App() {
       <header className="bg-gradient-to-r from-pink-500 to-blue-500 flex flex-row justify-between p-2 h-20 items-center">
         <h1 className="text-white text-4xl font-bold">Tres en Raya</h1>
         <button onClick={handleDarkMode} className="rounded-lg bg-white p-2">
-          <img src="../public/darkMode.svg" alt="Toggle Dark Mode"/>
+          <img src="/darkMode.svg" alt="Toggle Dark Mode"/>
         </button>
       </header>
 
